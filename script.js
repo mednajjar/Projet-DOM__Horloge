@@ -29,4 +29,4 @@ function demarrerLaMontre() {
 demarrerLaMontre();
 
 // Exercuter la fonction chaque second
-var interval = setInterval(demarrerLaMontre, 500);
+var interval = setInterval(demarrerLaMontre, 1000);
